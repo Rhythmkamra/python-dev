@@ -4,3 +4,5 @@ def fun(n):
     print(n)
 
 fun(6)
+
+chai_one ="tea"
